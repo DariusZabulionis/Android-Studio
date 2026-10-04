@@ -1,0 +1,3 @@
+# Fragmentai
+
+Fragmentas – tai pakartotinai naudojama jūsų programos vartotojo sąsajos dalis. Fragmentas apibrėžia ir valdo savo išdėstymą, turi savo gyvavimo ciklą ir gali apdoroti savo įvesties įvykius. Fragmentai negali veikti savarankiškai. Juos turi talpinti veikla arba kitas fragmentas. Fragmento vaizdų hierarchija tampa talpinančio elemento vaizdų hierarchijos dalimi arba prie jos prisijungia.
